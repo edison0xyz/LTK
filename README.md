@@ -7,7 +7,7 @@ This is a DoS tool. Do not run the script on any website that you do not own or 
 
 ## Installation
 
-Run `make`, then run `./ltk -h` for help menu.
+Run `make`, then run `./ltk -h` for help menu. 
 Sample query: `./ltk -r 5000 website.com`
 
 Note: hostsite cannot contain "https://", I will work on it, soon.
