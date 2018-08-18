@@ -1,5 +1,5 @@
 # Load Testing Kit
-Little utility tool made to perform DoS simulation. Although LOIC is a great tool, it is not ideal because it runs on Windows. It is really painful to use Windows so I made this little script to make life a bit easier.
+Little utility tool made to perform DoS simulation. Although LOIC is a great tool, it is not ideal because it runs on Windows. This makes cloud deployment and life in general a lot harder than it should.
 
 LTK will repeatedly stress test a website by flooding it with numerous superfluous requests packet.This defers from LOIC - it is designed to deliver maximum throughput from a single-machine, rather than trying to go stealth like LOIC.
  
